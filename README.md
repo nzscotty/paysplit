@@ -3,6 +3,7 @@
 Paysplit is a local-only money allocation planner. Enter the amount you are paid, decide what percentage should go to each account, and use the result to set up automatic transfers.
 There is no account, backend, or tracking. Your split is saved in your browser so you can return to the plan on the same device.
 
+
 ## What it does
 - Calculates dollar amounts from a pay amount and allocation percentages.
 - Supports weekly, fortnightly, and monthly pay frequencies.
